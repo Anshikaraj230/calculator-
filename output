@@ -1,0 +1,11 @@
+Welcome to the Simple Calculator!
+Enter the first number: 34
+Enter the second number: 23
+
+Choose operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter your choice (1/2/3/4): 3
+Result: 34 * 23 = 782
